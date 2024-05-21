@@ -1,2 +1,6 @@
 .env.secret
 __pycache__/
+venv/
+config.py
+performance/
+logs/
